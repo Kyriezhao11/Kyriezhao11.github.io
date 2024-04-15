@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenpeng Zhao (赵文鹏)"
-description              : "Ph.D. Candidate at the Nanjing University, China"
+description              : #"Ph.D. Candidate at the Nanjing University, China"
 repository               : "Kyriezhao11/Kyriezhao11.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "Kyriezwp@foxmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Wenpeng-Zhao-5"
   uri              :
   bitbucket        :
   codepen          :
