@@ -1,9 +1,9 @@
+wait。。。。
 
+<!-- 
 I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院). My research interest includes land cover mapping and large-scale Earth observation applications. I am looking for a post-doc position.
 
-
-
-<!-- I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist now in Singapore. 
+I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist now in Singapore. 
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
 
